@@ -43,9 +43,17 @@ Architecture:
 
 ## Results
 
-Test Accuracy: **90.7%**
+Model Test Accuracy: **90.7%**
 
-The model successfully detects wafer defect patterns and demonstrates how AI can assist with automated defect detection in semiconductor manufacturing.
+The CNN model successfully classifies semiconductor wafer defect patterns such as:
+
+- Edge-Ring
+- Edge-Loc
+- Center
+- Scratch
+- Donut
+- Random
+- Near-full
 
 ## Technologies Used
 

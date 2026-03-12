@@ -54,6 +54,17 @@ The CNN model successfully classifies semiconductor wafer defect patterns such a
 - Donut
 - Random
 - Near-full
+## Model Training Result
+
+![Training](training_results.png)
+
+## Model Evaluation
+
+![Confusion Matrix](confusion_matrix.png)
+
+## Example Wafer Defect Prediction
+
+![Prediction](sample_prediction.png)
 
 ## Technologies Used
 
